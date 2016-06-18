@@ -1,7 +1,8 @@
 ﻿# MoM.Dev
 <p><img src="assets/momlogo.png" srcset="assets/momlogo.svg 1x" class="navbar-brand" alt="MoM Logo" width="152" height="150"></p>
 
-This is the project you will need to get [MoM](https://github.com/RolfVeinoeSorensen/MoM) up and running.
+This is the project you will need to get [MoM](https://github.com/RolfVeinoeSorensen/MoM) up and running for developers.
+If you want to just install MoM Please goto [MoM](https://github.com/RolfVeinoeSorensen/MoM) and download the latest version.
 
 ## Prerequisities
  * Microsoft Visual Studio 2015 ([Community Edition](https://www.visualstudio.com/en-us) will work fine)
@@ -58,6 +59,7 @@ This section needs work.
 It is currently not possible to deploy the solution to IIS. This feature will be created at later time.
 
 ## Repositories
+ * [MoM](https://github.com/RolfVeinoeSorensen/MoM) 
  * [MoM.Dev](https://github.com/RolfVeinoeSorensen/MoM.Dev)
  * [MoM.Modules](https://github.com/RolfVeinoeSorensen/MoM.Modules)
  * [MoM.Themes](https://github.com/RolfVeinoeSorensen/MoM.Themes)

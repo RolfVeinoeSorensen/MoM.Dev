@@ -1,4 +1,6 @@
 ﻿# MoM.Dev
+<p><img src="assets/momlogo.png" srcset="assets/momlogo.svg 1x" class="navbar-brand" alt="MoM Logo" width="152" height="150"></p>
+
 This is the project you will need to get [MoM](https://github.com/RolfVeinoeSorensen/MoM) up and running.
 
 ## Prerequisities
@@ -54,6 +56,11 @@ It is possible to deploy the solution to IIS.
 ### Publishing to Docker
 This section needs work.
 It is currently not possible to deploy the solution to IIS. This feature will be created at later time.
+
+## Repositories
+ * [MoM.Dev](https://github.com/RolfVeinoeSorensen/MoM.Dev)
+ * [MoM.Modules](https://github.com/RolfVeinoeSorensen/MoM.Modules)
+ * [MoM.Themes](https://github.com/RolfVeinoeSorensen/MoM.Themes)
 
 ## This solution is not ready for production sites
 I am currently working on making this solution ready enough to serve my personal website.

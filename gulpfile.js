@@ -9,3 +9,8 @@ var gulp = require('gulp'),
 gulp.task('remove-node-folder', function (cb) {
     rimraf('./node_modules', cb);
 });
+
+gulp.task("copy-assets", function () {
+    gulp.src(["./assets/**/*.*"])
+    .pipe(gulp.dest("./MoM/MoM.Web/wwwroot/assets"))
+});
